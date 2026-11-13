@@ -1,6 +1,6 @@
 # Peeko privacy policy
 
-Effective 9 November 2026
+Effective 13 November 2026
 
 Peeko is an Android app made by Lakshay Gupta, an independent developer in India. It searches the photos, files, apps and contacts on your phone. This page covers what Peeko reads and the few things it sends over the internet.
 
@@ -14,9 +14,8 @@ To search, Peeko builds an index on your phone. Depending on what you allow, it 
 - The faces in your photos, so it can group photos of the same person and you can search them by a name you give. Peeko does this on your phone with a face model built into the app. The faces and names never leave your phone.
 - Your files, such as PDFs and documents, if you give Peeko access to all files, so you can search them by what they say.
 - Your contacts, if you allow it, so names show up in results.
-- What you type in other apps, only if you turn on Snippets in Any App (Pro). Peeko uses Android's Accessibility service to spot a ; followed by one of your snippet names, like ;upi, and replace it with that snippet. It reads only the text box you're typing in, skips password fields, and doesn't save, share or send what you type. The app you're typing in can see the snippet once it's in the box, as if you'd typed it yourself, so keep passwords out of snippets. You can turn it off in Peeko's Settings or in Android's Accessibility settings.
 - Your clipboard, if you turn on clipboard history. Free keeps clips for 7 days and Pro keeps them for 30.
-- What you save in Peeko: snippets, notes, shortcuts, things you share to Peeko, your recent searches and your saved Claude answers.
+- What you save in Peeko: notes, shortcuts, things you share to Peeko, your recent searches and your saved Claude answers.
 
 This all stays in Peeko's private storage on your phone, where other apps can't read it. Peeko turns off Android's cloud backup, so none of it is copied to your Google account. Uninstalling Peeko deletes it, and you can clear your search history any time in Settings › Privacy.
 
